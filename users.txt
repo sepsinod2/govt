@@ -1,6 +1,5 @@
-President:  ??
-Vice President: ??
-Speaker: ??
-Secretary of Treasury: JY
-usa: washingtoin
-Alabama
+President:  DT
+Vice President: VP
+Speaker: SB
+Secretary of Treasury: RG
+usa: mine
