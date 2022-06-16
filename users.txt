@@ -3,3 +3,4 @@ Vice President: VP
 Speaker: SB
 Secretary of Treasury: RG
 usa: mine
+Money: is also all mine
