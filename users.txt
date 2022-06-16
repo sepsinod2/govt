@@ -1,6 +1,7 @@
-President:  ??
-Vice President: ??
+President:  DT
+Vice President: VP
 Speaker: ??
 Secretary of Treasury: JY
 usa: washingtoin
-Alabama
+Michigan only
+Go blue
